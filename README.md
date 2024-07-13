@@ -8,3 +8,4 @@ An example repo for testing integrations
 - Update five
 - Update six
 - Update seven
+- Update eight
