@@ -7,3 +7,4 @@ An example repo for testing integrations
 - Update four
 - Update five
 - Update six
+- Update seven
